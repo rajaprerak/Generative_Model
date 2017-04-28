@@ -9,4 +9,4 @@ Read user’s profile and suggest a career path – in terms of skillset -- to b
 
 ## Module-2
 
-user enters a career goal and based on this career goal and other related information the platform suggest a career path.
+User enters a career goal and based on this career goal and other related information the platform suggest a career path.
